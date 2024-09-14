@@ -1,0 +1,64 @@
+.button {
+  align-items: center;
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.button .view-all-products {
+  font-family: var(--title-16px-medium-font-family);
+  font-size: var(--title-16px-medium-font-size);
+  font-style: var(--title-16px-medium-font-style);
+  font-weight: var(--title-16px-medium-font-weight);
+  letter-spacing: var(--title-16px-medium-letter-spacing);
+  line-height: var(--title-16px-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.primary {
+  padding: 16px 48px;
+}
+
+.button.small {
+  padding: 10px 48px;
+}
+
+.button.secondary {
+  background-color: var(--button-2);
+  border: 1px solid;
+  border-color: #00000080;
+  padding: 16px 48px;
+}
+
+.button.hover-false {
+  background-color: var(--button-2);
+}
+
+.button.hover-true.primary {
+  background-color: var(--hover-button);
+}
+
+.button.hover-true.small {
+  background-color: var(--hover-button);
+}
+
+.button.primary .view-all-products {
+  color: var(--text);
+}
+
+.button.small .view-all-products {
+  color: var(--text);
+}
+
+.button.secondary.hover-false .view-all-products {
+  color: var(--text-2);
+}
+
+.button.hover-true.secondary .view-all-products {
+  color: var(--text-1);
+}

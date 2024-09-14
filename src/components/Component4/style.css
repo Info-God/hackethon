@@ -1,0 +1,74 @@
+.component-4 .business-management {
+  color: #000000;
+  font-family: "Helvetica-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 41px;
+  letter-spacing: 0.48px;
+  line-height: 30px;
+  position: absolute;
+  top: 29px;
+  white-space: nowrap;
+  width: 281px;
+}
+
+.component-4 .ep-back-6 {
+  height: 27px;
+  left: 327px;
+  position: absolute;
+  top: 32px;
+  width: 28px;
+}
+
+.component-4 .rectangle-5 {
+  height: 180px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 283px;
+}
+
+.component-4.frame-867 {
+  height: 297px;
+  width: 383px;
+}
+
+.component-4.frame-866 {
+  height: 331px;
+  width: 435px;
+}
+
+.component-4.frame-867 .group-25 {
+  height: 297px;
+  width: 385px;
+}
+
+.component-4.frame-866 .group-25 {
+  background-image: url(../../../static/img/group-84.png);
+  background-size: 100% 100%;
+  height: 329px;
+  position: relative;
+  top: -15px;
+}
+
+.component-4.frame-867 .overlap-group-9 {
+  background-color: #ffffff;
+  border-radius: 5px;
+  height: 297px;
+  position: relative;
+  width: 383px;
+}
+
+.component-4.frame-866 .overlap-group-9 {
+  color: #0000ff;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0.32px;
+  line-height: 30px;
+  position: absolute;
+  top: 211px;
+  width: 339px;
+}

@@ -1,0 +1,22 @@
+.placebox-info {
+  background-color: var(--secondary);
+  border-radius: 4px;
+  height: 50px;
+  position: relative;
+  width: 330px;
+}
+
+.placebox-info .md {
+  color: var(--text-2);
+  font-family: var(--title-16px-regular-font-family);
+  font-size: var(--title-16px-regular-font-size);
+  font-style: var(--title-16px-regular-font-style);
+  font-weight: var(--title-16px-regular-font-weight);
+  left: 16px;
+  letter-spacing: var(--title-16px-regular-letter-spacing);
+  line-height: var(--title-16px-regular-line-height);
+  opacity: 0.5;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}

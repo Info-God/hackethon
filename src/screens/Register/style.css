@@ -1,0 +1,275 @@
+.register{
+  position:fixed;
+}
+.close-button{
+  position:absolute;
+  left:1000px;
+  top:0px;
+  border: none;
+  background-color: transparent;
+  font-size: larger;
+  cursor: pointer;
+
+}
+.frame {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 1013px;
+  position: relative;
+  width: 1227px;
+}
+
+.frame .overlap-group {
+  height: 746px;
+  left: 105px;
+  position: absolute;
+  top: 185px;
+  width: 1058px;
+}
+
+.frame .group {
+  height: 544px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 604px;
+}
+
+.frame .searchbar {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #8f8989;
+  border-radius: 5px;
+  display: flex;
+  gap: 38px;
+  left: 0;
+  padding: 12px 18px;
+  position: absolute;
+  top: 170px;
+  width: 202px;
+}
+
+.frame .div-wrapper {
+  height: 24px;
+  margin-right: -54.07px;
+  position: relative;
+  width: 220.07px;
+}
+
+.frame .text-wrapper {
+  color: #8f8989;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 218px;
+}
+
+.frame .group-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #8f8989;
+  border-radius: 5px;
+  display: flex;
+  gap: 38px;
+  left: 224px;
+  padding: 12px 18px;
+  position: absolute;
+  top: 170px;
+  width: 202px;
+}
+
+.frame .div {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #8f8989;
+  border-radius: 7px;
+  display: flex;
+  gap: 38px;
+  height: 54px;
+  left: 6px;
+  padding: 12px 18px;
+  position: absolute;
+  top: 2px;
+  width: 285px;
+}
+
+.frame .img {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.frame .group-2 {
+  height: 24px;
+  margin-right: -33.07px;
+  position: relative;
+  width: 220.07px;
+}
+
+.frame .searchbar-2 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #8f8989;
+  border-radius: 7px;
+  display: flex;
+  gap: 38px;
+  height: 56px;
+  left: 317px;
+  padding: 12px 18px;
+  position: absolute;
+  top: 0;
+  width: 285px;
+}
+
+.frame .searchbar-wrapper {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 321px;
+  width: 411px;
+}
+
+.frame .searchbar-3 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #8f8989;
+  border-radius: 5px;
+  display: flex;
+  gap: 38px;
+  padding: 12px 18px;
+  position: relative;
+  width: 411px;
+}
+
+.frame .group-3 {
+  height: 24px;
+  position: relative;
+  width: 220.07px;
+}
+
+.frame .p {
+  color: #8f8989;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 399px;
+  width: 370px;
+}
+
+.frame .div-wrapper-2 {
+  align-items: center;
+  background-color: #0000ff;
+  border-radius: 7px;
+  display: flex;
+  gap: 10px;
+  height: 52px;
+  justify-content: center;
+  left: 6px;
+  overflow: hidden;
+  padding: 19px 149px;
+  position: absolute;
+  top: 492px;
+  width: 420px;
+}
+
+.frame .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -4px;
+  margin-top: -6px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .group-4 {
+  height: 24px;
+  left: 6px;
+  position: absolute;
+  top: 101px;
+  width: 598px;
+}
+
+.frame .text-wrapper-3 {
+  color: #000000b2;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 294px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.frame .line {
+  height: 1px;
+  left: 352px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 244px;
+}
+
+.frame .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 233px;
+}
+
+.frame .aimscopefour {
+  height: 509px;
+  left: 558px;
+  object-fit: cover;
+  position: absolute;
+  top: 237px;
+  width: 500px;
+}
+
+.frame .searchbar-4 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #8f8989;
+  border-radius: 5px;
+  display: flex;
+  gap: 38px;
+  left: 0;
+  padding: 12px 18px;
+  position: absolute;
+  top: 247px;
+  width: 411px;
+}
+
+.frame .text-wrapper-4 {
+  color: #0000ff;
+  font-family: "Poppins", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 82px;
+}

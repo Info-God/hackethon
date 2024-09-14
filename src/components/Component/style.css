@@ -1,0 +1,63 @@
+.component .group {
+  height: 294px;
+  width: 385px;
+}
+
+.component .overlap-group {
+  background-color: #ffffff;
+  border-radius: 5px;
+  height: 294px;
+  position: relative;
+  width: 383px;
+}
+
+.component .text-wrapper {
+  color: #000000;
+  font-family: "Helvetica-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 30px;
+  letter-spacing: 0.48px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.component .ep-back {
+  height: 27px;
+  left: 328px;
+  position: absolute;
+  top: 34px;
+  width: 28px;
+}
+
+.component .rectangle {
+  height: 175px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 99px;
+  width: 267px;
+}
+
+.component .img {
+  height: 339px;
+  left: -20px;
+  position: absolute;
+  top: -21px;
+  width: 439px;
+}
+
+.component.frame-865 {
+  height: 294px;
+  width: 383px;
+}
+
+.component.frame-861 {
+  height: 297px;
+  position: relative;
+  width: 415px;
+}
