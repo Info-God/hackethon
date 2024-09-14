@@ -33,7 +33,7 @@ export const Component = ({ property1, className }) => {
         </div>
       )}
 
-      {state.property1 === "frame-861" && <img className="img" alt="Group" src="/img/group-84-2.png" />}
+      {state.property1 === "frame-861" && <img className="img" alt="Group" src="/" />}
     </div>
   );
 };
